@@ -1,0 +1,12 @@
+RED = (255, 0, 0)            # Start node color (vibrant red)
+GREEN = (144, 238, 144)      # Explored nodes color (soft pastel green, easy on the eyes)
+BLUE = (0, 0, 255)           # Default grid line color (classic blue for grid)
+YELLOW = (255, 255, 0)       # Not used in the game, can be omitted or used for visual cues
+WHITE = (255, 255, 255)      # Text or highlighting (you’re not using fonts now, so this may be omitted)
+BLACK = (20, 20, 20)         # Grid lines (dark grid lines for contrast against background)
+PURPLE = (160, 32, 240)      # Not used, can be omitted
+ORANGE = (255, 165, 0)       # Start node color (vibrant orange, stands out)
+GREY = (60, 60, 60)          # Grid background color (dark gray for good contrast)
+TURQUOISE = (64, 224, 208)   # End node color (soft turquoise for end node)
+BACKGROUND = (20, 20, 20)    # Dark background color (subtle and dark, enhances visibility)
+PATH_COLOR = (0, 255, 255)   # Path color (bright cyan for path highlighting)
